@@ -18,8 +18,8 @@ import { useGetGenresQuery } from '../../services/TMDB';
 import genreIcons from '../../assets/genres';
 import { selectGenreOrCategory } from '../../features/currentGenreOrCategory';
 
-const blueLogo = 'https://fontmeme.com/permalink/210930/8531c658a743debe1e1aa1a2fc82006e.png';
-const redLogo = 'https://fontmeme.com/permalink/210930/6854ae5c7f76597cf8680e48a2c8a50a.png';
+const blueLogo = 'https://fontmeme.com/permalink/230517/344efa8761f57b6191341a3d40f4ef29.png';
+const redLogo = 'https://fontmeme.com/permalink/230517/1c1670dd6284f8d01001e1c74b52aae3.png';
 
 const categories = [
   { label: 'Popular', value: 'popular' },
